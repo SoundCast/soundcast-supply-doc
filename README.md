@@ -1,6 +1,12 @@
 # SoundCast Supply Documentation
 Find all technical ressources for integrating the SoundCast solution in your website, mobile application, server to server or podcasts.
 
+## Table of Contents
+
+* [Web](#web)
+* [Mobile](#mobile)
+* [API](#api)
+
 ## Web
 
 ### Javascript Library
