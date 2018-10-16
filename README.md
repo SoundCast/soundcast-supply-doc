@@ -18,7 +18,7 @@ You can find the integration documentation at this url: https://github.com/Sound
 
 ## API
 
-#### Stitching API
+### Stitching API
 SoundCast Stitching API is a proxy API for loading SoundCast audio ads in publishers downloadable podcasts
 You can find the integration documentation at this url: Please contact our support for more informations on this service
 
