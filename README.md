@@ -4,6 +4,7 @@ Find all technical ressources for integrating the SoundCast solution in your web
 ## Web
 
 ### Javascript Library
+SoundCast Web SDK is a javascript library for loading SoundCast audio ads in publishers websites
 You can find the integration documentation at this url: https://github.com/SoundCast/soundcast-web-sdk
 
 ## Mobile
